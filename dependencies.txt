@@ -1,2 +1,0 @@
-pip install axios
-pip install django-cors-headers

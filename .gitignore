@@ -10,6 +10,9 @@ lerna-debug.log*
 # Node modules
 node_modules
 
+# Python virtual environment venv
+venv
+
 # Distribution directories
 dist
 dist-ssr
