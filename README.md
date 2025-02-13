@@ -1,7 +1,3 @@
-Here is a README file for your repository:
-
----
-
 # Todo Application
 
 This is a simple Todo application built using Python (Django) for the backend and JavaScript (React) for the frontend.
