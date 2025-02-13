@@ -1,0 +1,6 @@
+imports from react_framework in todo app 
+in 
+	urls.py -> DefaultRouter ( react_framework.routers )
+	views.py -> viewsets
+	serializer.py ->  searilizer
+	
